@@ -1,0 +1,18 @@
+*{
+
+}
+
+h1{
+    text-align: center;
+    font-size: 38px;
+    
+}
+footer{
+    padding: 50px;
+    grid-column-end: auto;
+    text-align: center;
+}
+
+a{
+    color: blue;
+}
